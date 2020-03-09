@@ -9,7 +9,7 @@
 
 The *atomagined* dataset is a collection of atomic-resolution images of unique [<b>ICSD</b>](http://www2.fiz-karlsruhe.de/icsd_home.html) structure prototypes, synthesized in the high angle annular dark field (HAADF) STEM modality. All images are calculated using [<b>PRISM</b>](http://prism-em.com/) imaging software, and post-processed to emulate noise and distortion conditions common to the HAADF STEM imaging mode. 
 
-The dataset is structured as both a testbed for the development of image retrieval tools in atomic-resolution materials microscopy, containing a designated [<b>retrieval</b>](retrieval) dataset with [<b>targets</b>](targets)/[<b>choices</b>](choices) splits, as well as a repository for [<b>general</b>](general) atomic-resolution HAADF image simulation data with 
+The dataset is structured as both a testbed for the development of image retrieval tools in atomic-resolution materials microscopy, containing a designated [<b>retrieval</b>](retrieval) dataset with [<b>targets</b>](retrieval/targets)/[<b>choices</b>](retrieval/choices) splits, as well as a repository for [<b>general</b>](general) atomic-resolution HAADF image simulation data with 
 structure projection-based peak position suggestions.
 
 ## Where is the Data?
