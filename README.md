@@ -14,7 +14,7 @@ structure projection-based peak position suggestions.
 
 ## Where is the Data?
 
-All folders in this repo are given as proxies to the full dataset hosted by the Materials Data Facility (MDF) and can be accessed by <<????>>. The folder structure of this repo is identical to the the folder structure present on MDF.
+All folders in this repo are given as proxies to the full dataset hosted by the Materials Data Facility (MDF) and can be accessed at https://doi.org/10.18126/szeq-yde5. The folder structure of this repo is identical to the folder structure present on MDF.
 
 ## Naming Conventions
 
